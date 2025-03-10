@@ -1,4 +1,3 @@
-Here's the improved and well-formatted README with better clarity, consistency, and structure.  
 
 ---
 
