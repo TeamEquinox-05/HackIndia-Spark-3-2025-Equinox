@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Text Detector</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 20px;
+            min-width: 300px;
+            background-color: #f5f5f5;
+        }
+
+        h2 {
+            color: #2c3e50;
+            margin-bottom: 20px;
+            font-size: 1.5em;
+        }
+
+        #checkButton {
+            background-color: #3498db;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 14px;
+            transition: background-color 0.3s ease;
+        }
+
+        #checkButton:hover {
+            background-color: #2980b9;
+        }
+
+        #result {
+            margin-top: 15px;
+            padding: 10px;
+            border-radius: 4px;
+            font-weight: 500;
+            font-size: 14px;
+            background-color: white;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+    </style>
+</head>
+<body>
+    <h2>AI Text Detector</h2>
+    <button id="checkButton">Check Selected Text</button>
+    <p id="result"></p>
+
+    <script src="popup.js"></script>
+</body>
+</html>
