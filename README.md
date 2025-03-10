@@ -44,8 +44,6 @@ git clone https://github.com/TeamEquinox-05/HackIndia-Spark-3-2025-Equinox.git
    - Open `test.html` to verify functionality.  
    - Works on **X (Twitter) posts** and general **website content detection**.  
 
----
-
    ## 📌 How It Works  
    - The extension **injects a script** into web pages to analyze content.  
    - It sends the extracted text to the Flask server for **AI-based analysis**.  
@@ -53,8 +51,6 @@ git clone https://github.com/TeamEquinox-05/HackIndia-Spark-3-2025-Equinox.git
      - **Label** (`Fake`, `Real`, `AI-Generated`, etc.)  
      - **Confidence Score** (`0-100%`)  
    - Results appear as an **overlay** on the webpage.  
-
----
 
    ## Example Usage  
    
@@ -64,6 +60,8 @@ git clone https://github.com/TeamEquinox-05/HackIndia-Spark-3-2025-Equinox.git
    - **Example:**  
      ![Fake News Detector](assets/fake.png)  
      ![Real News Detector](assets/real.png)  
+---
+
 
 **🤖 AI-Generated Content Detection**  
 - Detects AI-generated text on **selected website content**.  
@@ -72,6 +70,7 @@ git clone https://github.com/TeamEquinox-05/HackIndia-Spark-3-2025-Equinox.git
   ![Human Detector](assets/human.png)  
   ![Ai Detector](assets/ai.png)  
 
+---
 
 **⚠️ Phishing Website Detection**
 - Analyzes website **URLs** and warns users about **unsafe** websites.  
