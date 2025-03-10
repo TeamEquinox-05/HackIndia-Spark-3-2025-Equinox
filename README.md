@@ -93,6 +93,3 @@ git clone https://github.com/TeamEquinox-05/HackIndia-Spark-3-2025-Equinox.git
 
 ---
 
-## 🤝 Contributing  
-Want to improve this project? Feel free to submit a **pull request** or open an **issue**!  
-
