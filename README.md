@@ -26,7 +26,7 @@ This browser extension detects **fake news**, **AI-generated content**, and **we
 
 ## 🔧 Installation  
 
-### 1️Clone the Repository  
+### Clone the Repository  
 ```sh
 git clone https://github.com/TeamEquinox-05/HackIndia-Spark-3-2025-Equinox.git
 ```
