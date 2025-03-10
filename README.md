@@ -57,7 +57,7 @@ git clone https://github.com/TeamEquinox-05/HackIndia-Spark-3-2025-Equinox.git
 
 ---
 
-   ## 🎯 Example Usage  
+   ## Example Usage  
    
    ### 🔍 Fake News Detection on X (Twitter)  
    - Scans tweets and labels them as **Fake** or **Real**.  
@@ -77,7 +77,7 @@ git clone https://github.com/TeamEquinox-05/HackIndia-Spark-3-2025-Equinox.git
 **⚠️ Phishing Website Detection**
 - Analyzes website **URLs** and warns users about **unsafe** websites.  
 - Displays **a warning pop-up** for **malicious** sites.  
-![Phishing Detector](assets/safe.png)
+![Phishing Detector](assets/safe.jpg)
 
 ---
 
