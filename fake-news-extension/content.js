@@ -1,6 +1,6 @@
 console.log("Fake News Detector script running...");
 
-let FLASK_SERVER_API = "https://2dd4-34-19-120-216.ngrok-free.app"; // Update as needed
+let FLASK_SERVER_API = "https://8c1d-34-142-234-51.ngrok-free.app"; // Update as needed
 
 function showLoading(targetElement) {
   const loadingDiv = document.createElement('div');
